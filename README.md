@@ -9,6 +9,7 @@ How does one predict sales for a game based on genre, publisher, and platform?
 * A bad game is defined as sales under 5 million
 * A good game is defined as sales 5 million < 10 million
 * A best seller is defined as sales over 10 million
+* All data after 2015 was droped due to the data being pulled in Oct 2016
 
 ## Information Breakdown
 1. Use file from [Kaggle](https://www.kaggle.com/gregorut/videogamesales)
