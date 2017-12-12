@@ -1,12 +1,14 @@
 # ML-learning-Project
-effects of platform, genre, and publisher on game sales
+This project is created for EL-GY 9123 at NYU Tandon taught by [Sundeep Rangan](http://wireless.engineering.nyu.edu/sundeep-rangan/)
 
 ## Problem
 How does one predict sales for a game based on genre, publisher, and platform?
 
 ## Things to Note
 * All game sales are in millions
-* A good game is defined as sales over 5 million
+* A bad game is defined as sales under 5 million
+* A good game is defined as sales 5 million < 10 million
+* A best seller is defined as sales over 10 million
 
 ## Information Breakdown
 1. Use file from [Kaggle](https://www.kaggle.com/gregorut/videogamesales)
