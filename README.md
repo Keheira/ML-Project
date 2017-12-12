@@ -24,8 +24,6 @@ How does one predict sales for a game based on genre, publisher, and platform?
 4. Combine information for analysis
 5. Training of data
 6. Testing on popular games for PS4 and XBox 1
-  * Crash Bandacoot 3
-  * Watch Dogs 2
-  * Mafia 3
-  * Overwatch
-  * Destiny 2
+  * Crash Bandacoot 3; PS4; activision & sony interactive entertainment
+  * Watch Dogs 2; PS4, PC, and XB1; Ubisoft
+  * Destiny 2; PS4, PC, and XB1; activision
